@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a data analysis project to analyze IMSA/WEC/ELMS laptimes.<br>I'm currently learning more about Python.<br>Ask me about anything that has to do with cars or MATLAB.<br>Fun fact, I drove karts professionally.
+I'm currently working on a data analysis project to analyze IMSA/WEC/ELMS laptimes.<br>Fun fact, I drove karts professionally.
 
 
 ## 🌐 Socials:
