@@ -6,4 +6,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomnelissen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomnelissen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=thomnelissen&langs_count=9&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=thomnelissen&langs_count=9&theme=transparent)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
